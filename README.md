@@ -18,7 +18,6 @@ This project demonstrates how to deploy the popular 2048 web app on **Amazon EKS
 
 > http://k8s-game2048-ingress2-bcac0b5b37-1030354079.us-east-2.elb.amazonaws.com
 
-*(Replace with your actual ALB DNS name)*
 
 ---
 
@@ -64,7 +63,6 @@ This project demonstrates how to deploy the popular 2048 web app on **Amazon EKS
 |-------------|---------|-----------|
 | ![EKS](screenshots/eks.png) | ![ALB](screenshots/alb.png) | ![Game](screenshots/2048.png) |
 
-*(Add your own screenshots in a `/screenshots` folder for best effect)*
 
 ---
 
